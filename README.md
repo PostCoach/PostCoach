@@ -33,8 +33,7 @@ Welcome to my profile. Find some facts about me here.
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
 ![MS Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)
 ![M5Stack](https://img.shields.io/badge/M5Stack-000000?logo=stackshare&logoColor=white)
-
-Techs without GitHub Badges:
 ![JSON](https://img.shields.io/badge/JSON-000000?logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+
