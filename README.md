@@ -10,11 +10,11 @@ Welcome to my profile. Find some facts about me here.
 - ☕ A website for a rustic café in the Emmental region
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=DeinBenutzername&theme=gruvbox&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=PostCoach&theme=gruvbox&hide_border=false)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DeinBenutzername&theme=gruvbox&no-frame=true&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=PostCoach&theme=gruvbox&no-frame=true&column=4)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeinBenutzername&theme=gruvbox)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PostCoach&theme=gruvbox)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
