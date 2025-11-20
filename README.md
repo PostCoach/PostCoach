@@ -1,7 +1,7 @@
 ![Pixel Header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1200&color=F7D51D&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+SIREyrie;IT+Trainer+and+Coach;Game+Dev+in+Training)
 
 # 🎮 SIREyrie
-Welcome to my profile. I'm a programming teacher from Switzerland.
+Welcome to my profile. I'm a programming teacher from Switzerland.<br>
 Find some facts about me here.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -13,8 +13,10 @@ Find some facts about me here.
 ## 📊 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=PostCoach&theme=gruvbox&hide_border=false)
 
+
 ## 📊 GitHub Trophy's
 ![trophy](https://github-profile-trophy.vercel.app/?username=PostCoach&theme=gruvbox&no-frame=true&column=4)
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
